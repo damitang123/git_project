@@ -4,4 +4,8 @@
 654
 hello.js
 keep foolish
+<<<<<<< HEAD
 keep healthy
+=======
+keep hungry
+>>>>>>> james
