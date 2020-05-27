@@ -3,8 +3,3 @@
 789
 654
 hello.js
-keep foolish
-<<<<<<< HEAD
-keep healthy
-=======
->>>>>>> james
