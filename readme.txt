@@ -7,5 +7,4 @@ keep foolish
 <<<<<<< HEAD
 keep healthy
 =======
-keep hungry
 >>>>>>> james
